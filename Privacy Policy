@@ -1,0 +1,51 @@
+Privacy Policy for Minimalist Homepage
+Last Updated: August 23, 2025
+
+This privacy policy provides a detailed and transparent explanation of how the Minimalist Homepage Chrome extension ("the extension") handles your data. Your privacy is fundamental to the design and functionality of this extension.
+
+1. Guiding Principle: Your Data is Yours
+The core principle of this extension is that all your data is stored locally on your own computer. It never leaves your device, and we have no access to it.
+
+2. What Information is Stored (Locally)
+To save your customizations and preferences, the extension uses the browser's built-in local storage (chrome.storage.local). The data stored includes:
+
+Custom Modes and Websites: Any modes you create and the website links you add to them.
+
+To-Do List: The tasks you add to the to-do list widget.
+
+Theme & Customization Settings: Your choices for background images (whether uploaded or from a URL), colors, gradients, and other visual settings.
+
+Timer State: The current state of the study timer.
+
+Music Player Playlist: A reference to the local music files you select to play. The audio files themselves are not stored by the extension, only the playlist order.
+
+Again, all of this information is saved only on your local machine.
+
+3. Information We Do Not Collect
+The extension does not collect, transmit, or store any personal information or usage data. Specifically, we do not have access to:
+
+Your browsing history.
+
+Your search queries.
+
+Your IP address or location.
+
+Any analytics or usage statistics.
+
+Any personal data from your Google account or other online accounts.
+
+4. Permissions Explained
+The manifest.json file requests only one permission:
+
+"storage": This permission is required for the extension to save your settings locally. Without it, your custom modes, websites, and theme preferences would be lost every time you close the tab.
+
+5. Third-Party Services & External Connections
+Search Functionality: When you use the search bar, your query is sent directly to the search engine you have selected (e.g., Google, DuckDuckGo, YouTube). This is the same as performing a search directly on their websites. The extension does not intercept, log, or transmit your search queries to any other server.
+
+No Third-Party Trackers: The extension does not include any third-party analytics, advertising, or tracking scripts.
+
+6. Changes to This Privacy Policy
+If this policy is updated in the future, the changes will be detailed in the extension's description on the Chrome Web Store.
+
+7. Contact Us
+If you have any questions or concerns about this privacy policy, please feel free to reach out.

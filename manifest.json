@@ -1,0 +1,20 @@
+{
+  "manifest_version": 3,
+  "name": "Minimalist Homepage",
+  "version": "1.0",
+  "description": "A minimalist new tab page with widgets for study, relaxation, and entertainment.",
+  "chrome_url_overrides": {
+    "newtab": "index.html"
+  },
+  "permissions": [
+    "storage"
+  ],
+  "content_security_policy": {
+    "extension_pages": "script-src 'self'; object-src 'self';"
+  },
+  "icons": {
+    "16": "icon16.png",
+    "48": "icon48.png",
+    "128": "icon128.png"
+  }
+}

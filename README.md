@@ -1,5 +1,5 @@
 EOS - A Web Browser Extension ( https://microsoftedge.microsoft.com/addons/detail/minimalist-homepage/eagkdcnpaaiokkgamfnkhedhighjkeep )
-Minimalist Homepage
+EOS
 A beautifully designed, highly customizable new tab page for your browser that combines productivity, relaxation, and entertainment. With a focus on privacy and a rich feature set, it transforms your new tab into a personal dashboard.
 
 Features
@@ -48,7 +48,7 @@ Data Backup & Restore: Export all your settings to a JSON file and import them o
 
 How to Use
 Getting Started
-Install the Extension: Once installed, the Minimalist Homepage will automatically appear every time you open a new tab.
+Install the Extension: Once installed, the EOS will automatically appear every time you open a new tab.
 
 Explore the Modes: The default modes are "Focus," "Relax," and "Entertainment." Click the list icon in the top toolbar to switch between them.
 

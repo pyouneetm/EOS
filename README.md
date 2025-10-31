@@ -1,116 +1,105 @@
-EOS - A Web Browser Extension ( https://microsoftedge.microsoft.com/addons/detail/minimalist-homepage/eagkdcnpaaiokkgamfnkhedhighjkeep )
-EOS
-A beautifully designed, highly customizable new tab page for your browser that combines productivity, relaxation, and entertainment. With a focus on privacy and a rich feature set, it transforms your new tab into a personal dashboard.
+Eos: The All-in-One New Tab Productivity Suite (later known as Minimalist-HomePage)
 
-Features
-Core Experience
-Customizable Modes: Tailor your new tab experience with different modes like "Focus," "Relax," and "Entertainment." You can also create your own custom modes.
+ ( https://microsoftedge.microsoft.com/addons/detail/minimalist-homepage/eagkdcnpaaiokkgamfnkhedhighjkeep ) EOS A beautifully designed, highly customizable new tab page for your browser that combines productivity, relaxation, and entertainment. With a focus on privacy and a rich feature set, it transforms your new tab into a personal dashboard.
 
-Stunning Visuals: Choose from a dynamic cosmos background, custom wallpapers, gradients, or solid colors to create a visually appealing homepage.
+Eos is not just a new tab page; it's a complete, offline-first productivity, learning, and discovery environment built directly into your browser. It replaces your new tab with a "sentient" dashboard that acts as a launchpad for a powerful suite of integrated applications.
 
-Privacy-Focused: No data collection, no tracking. All your settings are stored locally on your device.
+Every piece of data, from your to-do lists and notes to your API keys and game saves, is stored 100% locally in your browser. Nothing is ever sent to an external server, ensuring your privacy.
 
-Productivity & Focus
-Focus Timer: A built-in Pomodoro-style timer to help you stay focused on your tasks.
+Core Features
 
-Purpose Widget: Start your day with intention by setting a daily goal.
+The Sentient New Tab: A beautiful, customizable hub with two modes: "Cosmos" (a dynamic, animated dashboard) and "Focus" (a minimal, clean experience).
 
-Notes Widget: A simple, draggable, and resizable notes widget for jotting down quick thoughts.
+The Eos App Suite: A collection of powerful, standalone "apps" for learning, creativity, and discovery, all accessible from your new tab.
 
-Relaxation & Entertainment
-Local Music Player: Listen to your own music by selecting a local folder. The player includes shuffle, repeat, and playlist functionality.
+The Eos Compass: A floating, ambient search widget that gives you access to your open tabs and search from any webpage (opt-in).
 
-Breathing Exercise: A guided breathing exercise to help you relax and de-stress.
+Deep Customization: Control everything from themes, colors, and fonts to widget visibility and background images.
 
-EOS News Reader
-A powerful, built-in RSS feed reader to keep up with your favorite news sources without leaving your new tab.
+Offline-First & Private: Your data is yours. All state is saved locally. AI features require your own API key, which is also stored locally and only sent directly to Google.
 
-Add & Manage Feeds: Easily add RSS feeds from any website.
+The Eos App Suite
 
-Organize with Folders: Group your feeds into folders for better organization.
+Eos comes bundled with a suite of powerful, standalone applications, turning your browser into a complete workstation.
 
-Reader Mode: A clutter-free reading experience for your articles.
+✨ EosScholar: An AI-powered study and focus environment.
 
-Text-to-Speech: Listen to your articles with the built-in text-to-speech feature.
+AI Study Partner: A persistent chatbot (powered by your Gemini API key) that remembers your conversations.
 
-Bookmarks: Save articles to read later.
+Pomodoro Timer: A complete Pomodoro timer with work, short break, and long break modes.
 
-OPML Import/Export: Easily import your existing feed subscriptions or export them to another reader.
+Ambient Sounds: A sound machine with white, pink, and brown noise, plus rain and wind.
 
-Customization
-Extensive Theme Options: Customize the background, text colors, fonts, and UI opacity to match your style.
+AI Quiz Generator: Instantly creates quizzes from any topic.
 
-Website Shortcuts: Add your favorite websites to each mode for quick access.
+To-Do List, Flashcards & Study Planner: A full set of tools for organizing your learning.
 
-Search Engine per Mode: Set a different default search engine for each mode.
+📝 EosPad: A rich text editor for the modern web.
 
-Data Backup & Restore: Export all your settings to a JSON file and import them on another device.
+Full Editor: A standalone, multi-tab text editor for notes and long-form writing.
 
-How to Use
-Getting Started
-Install the Extension: Once installed, the EOS will automatically appear every time you open a new tab.
+AI Integration: Use your Gemini key to summarize, explain, or continue writing text.
 
-Explore the Modes: The default modes are "Focus," "Relax," and "Entertainment." Click the list icon in the top toolbar to switch between them.
+Media Tools: Includes a drawing canvas and a video/audio recorder to embed media directly into your notes.
 
-Open Settings: Click the gear icon in the top toolbar to open the settings panel and start customizing your homepage.
+🚀 EosOrbit: A multi-archive discovery engine.
 
-The Settings Panel
-The settings panel is where you can tailor every aspect of the extension to your liking.
+Universal Search: Find books, audio, and video across the Internet Archive, Open Library, LibriVox, and Gutenberg.
 
-Manage Your Homepage:
+Built-in Music Player: A full-featured local music player with a playlist, track visualizer, shuffle/repeat, and sleep timer.
 
-Search Engine per Mode: Set a default search engine for each of your modes.
+📰 EosNews: A complete, standalone RSS feed reader.
 
-Add Websites: Add website shortcuts that will appear on your homepage. You can assign them to specific modes.
+Feed Management: Add, organize, and read all your RSS feeds in one clean interface.
 
-Homepage Customization:
+Bookmarks & Folders: Save articles to read later and organize your sources into custom folders.
 
-Clock Settings: Change the font and size of the clock, and toggle the AM/PM display.
+OPML Support: Import and export your feed lists.
 
-Toolbar Position: Move the main toolbar to the top-left, top-center, or top-right of the screen.
+🌀 Eospiral: A complete, narrative-driven roguelite game.
 
-Embrace The Cosmos: Toggle the dynamic, animated background and sentient UI features.
+Deep Gameplay: Ascend a 15-level "Data-Spire" as an "Anomalist" in this ASCII-art-style RPG.
 
-Backgrounds: Set a custom background image URL, upload a wallpaper, or choose a solid color or gradient.
+Rich Lore: Uncover the story of the "Source-Code Wyrm" through 30+ lore logs.
 
-Colors & Opacity: Adjust the text color, UI opacity, and other color settings to create your perfect theme.
+Branching Endings: Your moral choices (Alignment) and key decisions lead to three completely different "true" endings.
 
-Create & Edit Modes:
+Full System: Features crafting, puzzles, an encounter system, and permanent perks.
 
-Create new modes with custom names.
+📖 EosReader: An AI-powered reader mode.
 
-Edit existing modes, including setting a custom quote for each.
+Clean Reading: Opens any article in a clean, clutter-free view.
 
-Data Backup:
+AI Summary: Provides an instant summary of the article content.
 
-Export Data: Save all your settings to a JSON file.
+Link-Free Mode: A single click removes all hyperlinks for pure, focused reading.
 
-Import Data: Load your settings from a previously exported JSON file.
+Installation
 
-Reset Options:
+This extension is not currently on the Chrome Web Store and must be loaded as an unpacked extension.
 
-Reset UI: Revert all visual customizations to their default state without losing your saved websites or modes.
+Download or clone this repository to a folder on your computer.
 
-Full Reset: Completely reset the extension to its initial state. This will delete all your settings.
+Open Google Chrome and navigate to chrome://extensions.
 
-Using the EOS News Reader
-Open the Reader: Click the newspaper icon in the top toolbar.
+Enable "Developer mode" using the toggle in the top-right corner.
 
-Add a Source: In the left sidebar, enter a name for your feed (e.g., "Tech News") and the RSS feed URL. Click "Add Source."
+Click the "Load unpacked" button.
 
-Create Folders: Click the folder icon to create folders to organize your feeds.
+Select the folder where you saved the extension files.
 
-Read Articles: Click on a feed in the sidebar to view its articles in the main panel. Click on an article card to open it in the clutter-free Reader Mode.
+Eos will now be active! Open a new tab to see it in action.
 
-Support this Project
-If you enjoy this extension and would like to support its development, you can:
+Security, Data & Privacy
 
-Buy me a coffee ☕
+Your privacy is the most important feature of this extension.
 
-Or via UPI: pyouneetm@oksbi
+Permissions (<all_urls>): This permission is required only for the Eos Compass (the floating search widget) to appear on other websites. To protect your privacy, this feature is OFF by default. You must manually enable it in the Eos settings, which will then grant the permission.
 
-Privacy
-Your privacy is a top priority. This extension is designed to be a private space for you. For more details, please read our Privacy Policy.
+Gemini API Key: The AI features in EosScholar and EosPad require your own Google Gemini API key. This key is stored only in your browser's local storage. It is never sent to any server except for Google's official API endpoints when you make a request.
 
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
+Local Storage: All your data notes from EosPad, tasks from EosScholar, game saves from Eospiral, feeds from EosNews, etc. is stored 100% on your local computer. It is never uploaded, shared, or backed up. If you clear your browser's data, this data will be lost.
+
+Author
+
+Built by Pyouneetm
